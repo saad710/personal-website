@@ -1,0 +1,191 @@
+
+body{
+
+    font-family: 'Piedra', cursive;
+    margin:0px;
+}
+
+
+h1{
+
+    color: #e44185;
+    font-size: 50px;
+}
+
+h3{
+
+    font-size:30px;
+    
+}
+
+.para{
+
+
+color:#a7a1a1;
+font-size:20px;
+font-weight: 400;
+
+}
+
+.half-width{
+     
+    width:40%;
+    float:left;
+    padding-left:70px;
+
+}
+
+img{
+
+    width:80%;
+    height:500px;
+
+}
+
+#link-button{
+
+    text-decoration:none;
+    background-image: linear-gradient(45deg,#f8758b,#b62d2d);
+    color:white;
+    padding:10px 20px ;
+    border-radius: 7px ;
+}
+
+
+section{
+
+    height:500px;
+    padding-bottom: 150px;
+}
+.top-banner{
+   
+    
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.mid-banner{
+
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   
+}
+
+
+
+
+.mid-width{
+     
+    width:40%;
+    float:left;
+    padding-left:50px;
+
+
+}
+.mid-width img{
+
+    height:500px;
+    width:70%;
+}
+
+.work{
+
+    width:25%;
+    float:left;
+    padding-left:70px;
+    
+}
+
+.work img{
+
+    height:300px;
+    width:100%;
+}
+
+.end-banner h3{
+
+    text-align:center;
+}
+
+.end-banner
+{
+
+    background-image: url("images/footer-bg.png");
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.last-banner h1, h4 
+{
+
+    text-align:center;
+    color:black;
+    font-weight: 300;
+}
+
+.last-banner h5{
+
+    color:grey;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 200;
+}
+
+.last-banner p{
+
+    text-align:center;
+    font-weight: 100;
+}
+
+.last-banner{
+
+    background-image: url("images/footer-bg.png");
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.text {
+    height:30%;
+    background-image: linear-gradient(45deg,#f8758b,#b62d2d);
+    
+ margin-left: 35%;
+ margin-right: 35%;
+
+ 
+    
+ padding-top:10px;
+ padding-bottom: 10px;
+ 
+ 
+}
+
+.text h1{
+
+    font-size: 28px;
+    color:white;
+    
+}
+
+.text h4{
+
+    font-size: 18px;
+    color:white;
+}
+
+footer{
+
+    text-align:center;
+    padding-bottom: 20px;
+    color:grey;
+    font-size:15px;
+    font-weight: 100;
+}
+
